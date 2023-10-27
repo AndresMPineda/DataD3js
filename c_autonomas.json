@@ -3,6 +3,7 @@
    "Año": 2023,
    "Dia": 30,
    "mes": "junio",
+   "code_cautonoma": 1,
    "c_autonoma": "Andalucía",
    "casos": 1352
  },
@@ -10,6 +11,7 @@
    "Año": 2023,
    "Dia": 30,
    "mes": "junio",
+   "code_cautonoma": 2,
    "c_autonoma": "Aragón",
    "casos": 12
  },
@@ -17,6 +19,7 @@
    "Año": 2023,
    "Dia": 30,
    "mes": "junio",
+   "code_cautonoma": 3,
    "c_autonoma": "Asturias",
    "casos": 360
  },
@@ -24,6 +27,7 @@
    "Año": 2023,
    "Dia": 30,
    "mes": "junio",
+   "code_cautonoma": 4,
    "c_autonoma": "Canarias",
    "casos": 1262
  },
@@ -31,6 +35,7 @@
    "Año": 2023,
    "Dia": 30,
    "mes": "junio",
+   "code_cautonoma": 5,
    "c_autonoma": "Cantabria",
    "casos": 93
  },
@@ -38,6 +43,7 @@
    "Año": 2023,
    "Dia": 30,
    "mes": "junio",
+   "code_cautonoma": 6,
    "c_autonoma": "Castilla y León",
    "casos": 563
  },
@@ -45,6 +51,7 @@
    "Año": 2023,
    "Dia": 30,
    "mes": "junio",
+   "code_cautonoma": 7,
    "c_autonoma": "Castilla La Mancha",
    "casos": 377
  },
@@ -52,6 +59,7 @@
    "Año": 2023,
    "Dia": 30,
    "mes": "junio",
+   "code_cautonoma": 8,
    "c_autonoma": "Cataluña",
    "casos": 1440
  },
@@ -59,6 +67,7 @@
    "Año": 2023,
    "Dia": 30,
    "mes": "junio",
+   "code_cautonoma": 9,
    "c_autonoma": "Ceuta",
    "casos": 14
  },
@@ -66,6 +75,7 @@
    "Año": 2023,
    "Dia": 30,
    "mes": "junio",
+   "code_cautonoma": 10,
    "c_autonoma": "Comunidad Valenciana",
    "casos": 806
  },
@@ -73,6 +83,7 @@
    "Año": 2023,
    "Dia": 30,
    "mes": "junio",
+   "code_cautonoma": 11,
    "c_autonoma": "Extremadura",
    "casos": 275
  },
@@ -80,6 +91,7 @@
    "Año": 2023,
    "Dia": 30,
    "mes": "junio",
+   "code_cautonoma": 12,
    "c_autonoma": "Galicia",
    "casos": 1167
  },
@@ -87,6 +99,7 @@
    "Año": 2023,
    "Dia": 30,
    "mes": "junio",
+   "code_cautonoma": 13,
    "c_autonoma": "Islas Baleares",
    "casos": 91
  },
@@ -94,6 +107,7 @@
    "Año": 2023,
    "Dia": 30,
    "mes": "junio",
+   "code_cautonoma": 14,
    "c_autonoma": "La Rioja",
    "casos": 38
  },
@@ -101,6 +115,7 @@
    "Año": 2023,
    "Dia": 30,
    "mes": "junio",
+   "code_cautonoma": 15,
    "c_autonoma": "Madrid",
    "casos": 1369
  },
@@ -108,6 +123,7 @@
    "Año": 2023,
    "Dia": 30,
    "mes": "junio",
+   "code_cautonoma": 16,
    "c_autonoma": "Melilla",
    "casos": 29
  },
@@ -115,6 +131,7 @@
    "Año": 2023,
    "Dia": 30,
    "mes": "junio",
+   "code_cautonoma": 17,
    "c_autonoma": "Murcia",
    "casos": 194
  },
@@ -122,6 +139,7 @@
    "Año": 2023,
    "Dia": 30,
    "mes": "junio",
+   "code_cautonoma": 18,
    "c_autonoma": "Navarra",
    "casos": 76
  },
@@ -129,6 +147,7 @@
    "Año": 2023,
    "Dia": 30,
    "mes": "junio",
+   "code_cautonoma": 19,
    "c_autonoma": "País Vasco",
    "casos": 245
  }
