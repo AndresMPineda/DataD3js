@@ -44,7 +44,7 @@
    "Dia": 30,
    "mes": "junio",
    "code_cautonoma": 6,
-   "c_autonoma": "Castilla y León",
+   "c_autonoma": "Cast. y León",
    "casos": 563
  },
  {
@@ -52,7 +52,7 @@
    "Dia": 30,
    "mes": "junio",
    "code_cautonoma": 7,
-   "c_autonoma": "Castilla La Mancha",
+   "c_autonoma": "Cast. La Mancha",
    "casos": 377
  },
  {
@@ -76,7 +76,7 @@
    "Dia": 30,
    "mes": "junio",
    "code_cautonoma": 10,
-   "c_autonoma": "Comunidad Valenciana",
+   "c_autonoma": "Com. Valenciana",
    "casos": 806
  },
  {
@@ -100,7 +100,7 @@
    "Dia": 30,
    "mes": "junio",
    "code_cautonoma": 13,
-   "c_autonoma": "Islas Baleares",
+   "c_autonoma": "Is. Baleares",
    "casos": 91
  },
  {
