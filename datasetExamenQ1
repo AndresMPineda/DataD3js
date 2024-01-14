@@ -1,67 +1,67 @@
 [
- {
-   "alumno": "Alejandra",
-   "nota": 9.00,
-   "ranking": 1
- },
- {
-   "alumno": "Carlos",
-   "nota": 9.00,
-   "ranking": 2
- },
- {
-   "alumno": "Tatiana",
-   "nota": 8.00,
-   "ranking": 3
- },
- {
-   "alumno": "Marcela",
-   "nota": 7.00,
-   "ranking": 4
- },
- {
-   "alumno": "Jose",
-   "nota": 7.00,
-   "ranking": 5
- },
- {
-   "alumno": "Maria",
-   "nota": 7.00,
-   "ranking": 6
- },
- {
-   "alumno": "Ana",
-   "nota": 7.00,
-   "ranking": 7
- },
- {
-   "alumno": "Francia",
-   "nota": 5.00,
-   "ranking": 8
- },
- {
-   "alumno": "Beverly",
-   "nota": 4.00,
-   "ranking": 9
- },
- {
-   "alumno": "Pedro",
-   "nota": 4.00,
-   "ranking": 10
- },
- {
-   "alumno": "Arturo",
-   "nota": 1.00,
-   "ranking": 11
- },
- {
-   "alumno": "Arbey",
-   "nota": 1.00,
-   "ranking": 12
- },
- {
-   "alumno": "Juan",
-   "nota": 1.00,
-   "ranking": 13
- }
+	{
+		"alumno": "Alejandra",
+		"nota": 9,
+		"ranking": 1
+	},
+	{
+		"alumno": "Carlos",
+		"nota": 9,
+		"ranking": 2
+	},
+	{
+		"alumno": "Tatiana",
+		"nota": 8,
+		"ranking": 3
+	},
+	{
+		"alumno": "Marcela",
+		"nota": 7,
+		"ranking": 4
+	},
+	{
+		"alumno": "Jose",
+		"nota": 7,
+		"ranking": 5
+	},
+	{
+		"alumno": "Maria",
+		"nota": 7,
+		"ranking": 6
+	},
+	{
+		"alumno": "Ana",
+		"nota": 7,
+		"ranking": 7
+	},
+	{
+		"alumno": "Francia",
+		"nota": 5,
+		"ranking": 8
+	},
+	{
+		"alumno": "Beverly",
+		"nota": 4,
+		"ranking": 9
+	},
+	{
+		"alumno": "Pedro",
+		"nota": 4,
+		"ranking": 10
+	},
+	{
+		"alumno": "Arturo",
+		"nota": 1,
+		"ranking": 11
+	},
+	{
+		"alumno": "Arbey",
+		"nota": 1,
+		"ranking": 12
+	},
+	{
+		"alumno": "Juan",
+		"nota": 1,
+		"ranking": 13
+	}
 ]
